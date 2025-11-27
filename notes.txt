@@ -1,0 +1,31 @@
+c languages  : procedure oriented 
+
+cpp /c ++ : object oriented languages 
+
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+    printf();
+    getch();
+}
+
+#include<iostream>
+int main()
+{
+    int a ;
+    std :: cout<<"hello";
+    std :: cout<<"ram";
+    std :: cin>>a;
+ 
+    return 0; 
+}
+
+#include<iostream>
+using namespace std; 
+int main()
+{
+    cout<<"hello";
+    return 0; 
+}
+
