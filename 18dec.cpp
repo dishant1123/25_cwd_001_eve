@@ -41,7 +41,7 @@ int main()
 */
 
 // harshard number  in range : 
-
+/*
 #include<iostream>
 using namespace std;
 int main()
@@ -70,5 +70,17 @@ int main()
     return 0; 
 
 }
-
+*/ 
 //100  -10000 disarium number  in range :
+
+/*
+*                 *
+* *             * *
+* * *         * * * 
+* * * *     * * * *
+* * * * * * * * * * 
+* * * *     * * * * 
+* * *         * * * 
+* *             * * 
+*                 *
+*/   
